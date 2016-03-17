@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Double Bogey</string>
+    <string name="action_settings">Settings</string>
+    <string name="clear_title">Clear</string>
+</resources>
